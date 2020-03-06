@@ -6,4 +6,12 @@ div {
 p {
     color: rosybrown;
     background: lime;
+    cursor: pointer;
+}
+
+span {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    color: red;
 }
