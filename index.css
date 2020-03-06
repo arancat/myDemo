@@ -4,6 +4,8 @@ div {
     height: 100px;
 }
 p {
+    width: 100px;
+    height: 100px;
     color: rosybrown;
     background: lime;
     cursor: pointer;
